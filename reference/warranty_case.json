@@ -1,0 +1,13 @@
+{
+  "asset_id": "cabinet-A17",
+  "contract_versions": [
+    {"version": "2025-A", "effective_from": "2025-01-01T00:00:00+08:00", "minimum_availability": "0.97"},
+    {"version": "2026-B", "effective_from": "2026-01-01T00:00:00+08:00", "minimum_availability": "0.975"}
+  ],
+  "meter_change": {
+    "changed_at": "2026-06-15T10:30:00+08:00",
+    "old_meter": {"id": "M-88", "final_kwh": "18420.50"},
+    "new_meter": {"id": "M-104", "initial_kwh": "12.25"}
+  },
+  "source_digest": "sha256:8a40a94e2c42d0fb"
+}
