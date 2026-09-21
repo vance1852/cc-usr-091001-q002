@@ -1,0 +1,21 @@
+{
+  "asset_id": "cabinet-A17",
+  "asset_label": "储能柜 A17（1 号站点）",
+  "note": "设备身份映射：历任结算表计的服役区间，与换表记录互为印证。",
+  "meters": [
+    {
+      "meter_id": "M-88",
+      "role": "结算表",
+      "service_from": "2025-01-01T00:00:00+08:00",
+      "service_until": "2026-06-15T10:30:00+08:00",
+      "final_kwh": "18420.50"
+    },
+    {
+      "meter_id": "M-104",
+      "role": "结算表",
+      "service_from": "2026-06-15T10:30:00+08:00",
+      "service_until": null,
+      "initial_kwh": "12.25"
+    }
+  ]
+}

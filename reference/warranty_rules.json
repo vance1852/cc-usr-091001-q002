@@ -1,0 +1,18 @@
+{
+  "ruleset_id": "WR-CAB-A17",
+  "note": "质保规则摘录：双方认可的合同口径。等效循环次数 = 期间吞吐 ÷ 该版本额定能量；最低可用率为合同义务线。",
+  "contract_versions": [
+    {
+      "version": "2025-A",
+      "effective_from": "2025-01-01T00:00:00+08:00",
+      "rated_energy_kwh": "200.0",
+      "minimum_availability": "0.97"
+    },
+    {
+      "version": "2026-B",
+      "effective_from": "2026-01-01T00:00:00+08:00",
+      "rated_energy_kwh": "215.0",
+      "minimum_availability": "0.975"
+    }
+  ]
+}

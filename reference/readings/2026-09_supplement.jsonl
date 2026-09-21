@@ -1,0 +1,2 @@
+{"meter_id": "M-88", "source": "manual", "observed_at": "2025-01-01T00:00:00+08:00", "cumulative_kwh": "1488.00", "operator": "op-liu", "reason": "调档补充投运日抄表，填补窗口起点覆盖缺口", "note": "投运交接单编号 COM-2025-011"}
+{"meter_id": "M-104", "source": "manual", "observed_at": "2026-07-15T00:00:00+08:00", "cumulative_kwh": "980.00", "operator": "op-liu", "reason": "遥测中断期间人工抄表", "note": "现场照片存档 P-2207"}
